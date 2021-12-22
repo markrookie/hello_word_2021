@@ -1,5 +1,4 @@
-# hello_word_2021
-
+# react-native文档 https://www.react-native.cn/
 ## 1，学习如何搭建react-native开发环境
 
 ## 2，搭好环境后，创建一个hello world项目
